@@ -15,7 +15,9 @@ The script singleCVEExtractor.py takes as input a single CVE number (hardcoded i
 
 The script multiCVEExtractor.py does the same thing, but taakes as input multiple CVE numbers  (again, hardcoded in the script so you have to change it). Sample output:
 CVE-2021-34527
+
 2021-06-11, 0.0023
+
 
 2021-06-12, 0.0024
 
